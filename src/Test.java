@@ -1,3 +1,4 @@
 public class Test {
-static ahahah;
+static int ahahah;
+
 }
